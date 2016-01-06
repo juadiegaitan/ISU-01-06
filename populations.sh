@@ -1,1 +1,1 @@
-populations -b 1 -m 3 -p 20 -P ./sstacks_output -M popmap --phylip 
+~/stacks/populations -b 1 -m 1 -P ./sstacks_output -M popmap --phylip 
