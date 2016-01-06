@@ -1,0 +1,1 @@
+raxmlmac-SSE3 -s sb323340.nex -mGTRCAT -p12345 -n5757 --asc-corr=lewis
