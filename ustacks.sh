@@ -1,305 +1,305 @@
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 1 -f ./stepOneComplete /100.24_ACACA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 2 -f ./stepOneComplete /101.24_CATAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 3 -f ./stepOneComplete /102.24_GGCCA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 4 -f ./stepOneComplete /103.25_AGCTA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 5 -f ./stepOneComplete /10.3_AATTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 6 -f ./stepOneComplete /104.25_CGGTA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 7 -f ./stepOneComplete /105.25_TCCGG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 8 -f ./stepOneComplete /106.25_GACAC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 9 -f ./stepOneComplete /107.25_GTAGT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 10 -f ./stepOneComplete /108.26_ACGGT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 11 -f ./stepOneComplete /109.27_ACTGG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 12 -f ./stepOneComplete /110.27_GTCCG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 13 -f ./stepOneComplete /111.27_GTCCG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 14 -f ./stepOneComplete /112.27_GTCGA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 15 -f ./stepOneComplete /113.27_TACCG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 16 -f ./stepOneComplete /11.3_CGAAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 17 -f ./stepOneComplete /114.27_TACGT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 18 -f ./stepOneComplete /115.28_ATGAG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 19 -f ./stepOneComplete /116.28_GCTGA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 20 -f ./stepOneComplete /117.28_TACGT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 21 -f ./stepOneComplete /118.28_TTACC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 22 -f ./stepOneComplete /119.29_GAGAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 23 -f ./stepOneComplete /1.1_AGCTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 24 -f ./stepOneComplete /120.29_TTACC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 25 -f ./stepOneComplete /121.30_GGATA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 26 -f ./stepOneComplete /122.31_GGCTC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 27 -f ./stepOneComplete /123.32_GTCGA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 28 -f ./stepOneComplete /12.3_TACGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 29 -f ./stepOneComplete /124.33_TCTGC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 30 -f ./stepOneComplete /125.34_AACCA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 31 -f ./stepOneComplete /126.34_GAGTC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 32 -f ./stepOneComplete /127.35_CGATC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 33 -f ./stepOneComplete /128.35_ACACA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 34 -f ./stepOneComplete /129.35_CTTGG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 35 -f ./stepOneComplete /130.35_TCACG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 36 -f ./stepOneComplete /131.35_TGGAA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 37 -f ./stepOneComplete /132.35_ACTTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 38 -f ./stepOneComplete /133.35_ATACG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 39 -f ./stepOneComplete /13.3_GCATG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 40 -f ./stepOneComplete /134.35_CGTAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 41 -f ./stepOneComplete /135.35_CTGTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 42 -f ./stepOneComplete /136.35_GTCGA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 43 -f ./stepOneComplete /137.35_TAGTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 44 -f ./stepOneComplete /138.36_TGCAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 45 -f ./stepOneComplete /139.36_ACTGG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 46 -f ./stepOneComplete /140.36_ATTAC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 47 -f ./stepOneComplete /141.36_CGGTA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 48 -f ./stepOneComplete /142.36_CTGCG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 49 -f ./stepOneComplete /143.36_TCAGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 50 -f ./stepOneComplete /14.3_CGTCG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 51 -f ./stepOneComplete /144.37_CAACC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 52 -f ./stepOneComplete /145.37_AAGGA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 53 -f ./stepOneComplete /146.37_ATGAG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 54 -f ./stepOneComplete /147.37_GAGAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 55 -f ./stepOneComplete /148.37_GCATG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 56 -f ./stepOneComplete /149.37_AGCTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 57 -f ./stepOneComplete /150.37_ATTAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 58 -f ./stepOneComplete /151.37_CTGCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 59 -f ./stepOneComplete /152.37_GGATA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 60 -f ./stepOneComplete /153.38_GGTTG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 61 -f ./stepOneComplete /15.3_GCCGT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 62 -f ./stepOneComplete /154.38_ACTTC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 63 -f ./stepOneComplete /155.38_CGTAC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 64 -f ./stepOneComplete /156.38_GCCGT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 65 -f ./stepOneComplete /157.38_TCAGT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 66 -f ./stepOneComplete /158.38_TTACC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 67 -f ./stepOneComplete /159.38_GAGTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 68 -f ./stepOneComplete /160.38_TCCGG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 69 -f ./stepOneComplete /161.38_TCTGC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 70 -f ./stepOneComplete /162.39_ACGGT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 71 -f ./stepOneComplete /163.39_CGAAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 72 -f ./stepOneComplete /16.3_GGCCA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 73 -f ./stepOneComplete /164.39_CGGCT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 74 -f ./stepOneComplete /165.39_GGCTC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 75 -f ./stepOneComplete /166.39_CGATC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 76 -f ./stepOneComplete /167.39_AATTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 77 -f ./stepOneComplete /168.39_CTTGG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 78 -f ./stepOneComplete /169.39_TCACG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 79 -f ./stepOneComplete /170.40_ATACG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 80 -f ./stepOneComplete /171.41_CATAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 81 -f ./stepOneComplete /172.41_CGTCG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 82 -f ./stepOneComplete /173.41_TACCG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 83 -f ./stepOneComplete /17.3_TACCG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 84 -f ./stepOneComplete /174.41_GTCCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 85 -f ./stepOneComplete /175.42_CTGTC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 86 -f ./stepOneComplete /176.43_GCTGA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 87 -f ./stepOneComplete /177.44_GGCCA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 88 -f ./stepOneComplete /178.44_TATAC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 89 -f ./stepOneComplete /179.45_TACGT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 90 -f ./stepOneComplete /180.45_AAGGA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 91 -f ./stepOneComplete /181.46_TGCAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 92 -f ./stepOneComplete /182.46_CGGTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 93 -f ./stepOneComplete /183.46_CGTAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 94 -f ./stepOneComplete /18.3_TATAC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 95 -f ./stepOneComplete /184.46_CGTCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 96 -f ./stepOneComplete /185.47_CAACC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 97 -f ./stepOneComplete /186.48_ACTGG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 98 -f ./stepOneComplete /187.48_CGGTA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 99 -f ./stepOneComplete /188.48_TCACG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 100 -f ./stepOneComplete /189.48_TCAGT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 101 -f ./stepOneComplete /190.48_TCCGG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 102 -f ./stepOneComplete /191.48_TCTGC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 103 -f ./stepOneComplete /192.48_TGGAA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 104 -f ./stepOneComplete /193.48_CGAAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 105 -f ./stepOneComplete /19.3_TGGAA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 106 -f ./stepOneComplete /194.48_CGGCT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 107 -f ./stepOneComplete /195.49_CGAAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 108 -f ./stepOneComplete /196.49_GTAGT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 109 -f ./stepOneComplete /197.50_CGGTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 110 -f ./stepOneComplete /198.51_CGTCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 111 -f ./stepOneComplete /199.51_GCCGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 112 -f ./stepOneComplete /200.51_TACCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 113 -f ./stepOneComplete /201.52_GAGAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 114 -f ./stepOneComplete /202.53_GCTGA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 115 -f ./stepOneComplete /203.54_GGCTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 116 -f ./stepOneComplete /204.55_GCATG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 117 -f ./stepOneComplete /20.4_ACGGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 118 -f ./stepOneComplete /205.55_AACCA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 119 -f ./stepOneComplete /206.56_CGATC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 120 -f ./stepOneComplete /207.56_TCGAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 121 -f ./stepOneComplete /208.56_GAGAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 122 -f ./stepOneComplete /209.56_GAGTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 123 -f ./stepOneComplete /210.57_TGCAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 124 -f ./stepOneComplete /211.57_CAACC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 125 -f ./stepOneComplete /212.58_GGTTG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 126 -f ./stepOneComplete /213.58_AAGGA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 127 -f ./stepOneComplete /214.58_AGCTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 128 -f ./stepOneComplete /21.4_CGGCT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 129 -f ./stepOneComplete /215.58_ACACA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 130 -f ./stepOneComplete /216.59_AATTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 131 -f ./stepOneComplete /217.59_ACGGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 132 -f ./stepOneComplete /218.60_ACTGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 133 -f ./stepOneComplete /219.60_ACTTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 134 -f ./stepOneComplete /2.1_ATTAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 135 -f ./stepOneComplete /220.60_ATACG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 136 -f ./stepOneComplete /221.60_ATGAG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 137 -f ./stepOneComplete /222.61_ATTAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 138 -f ./stepOneComplete /223.61_CATAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 139 -f ./stepOneComplete /224.62_CGAAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 140 -f ./stepOneComplete /22.4_GACAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 141 -f ./stepOneComplete /225.62_CGGCT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 142 -f ./stepOneComplete /226.63_CTGAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 143 -f ./stepOneComplete /227.63_CTGCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 144 -f ./stepOneComplete /228.64_CTGTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 145 -f ./stepOneComplete /229.64_CTTGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 146 -f ./stepOneComplete /230.64_GACAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 147 -f ./stepOneComplete /231.65_GCCGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 148 -f ./stepOneComplete /232.65_GCTGA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 149 -f ./stepOneComplete /233.66_GGATA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 150 -f ./stepOneComplete /234.66_GGCCA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 151 -f ./stepOneComplete /23.4_AATTA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 152 -f ./stepOneComplete /235.67_GGCTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 153 -f ./stepOneComplete /236.67_GTAGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 154 -f ./stepOneComplete /237.67_GTCCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 155 -f ./stepOneComplete /238.68_GTCGA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 156 -f ./stepOneComplete /239.69_TACCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 157 -f ./stepOneComplete /240.70_TACGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 158 -f ./stepOneComplete /241.71_TAGTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 159 -f ./stepOneComplete /242.72_TATAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 160 -f ./stepOneComplete /243.72_TCACG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 161 -f ./stepOneComplete /244.72_TCAGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 162 -f ./stepOneComplete /24.4_TCACG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 163 -f ./stepOneComplete /245.72_TCCGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 164 -f ./stepOneComplete /246.73_TCTGC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 165 -f ./stepOneComplete /247.73_TGGAA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 166 -f ./stepOneComplete /248.73_TTACC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 167 -f ./stepOneComplete /249.74_GCATG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 168 -f ./stepOneComplete /250.74_AACCA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 169 -f ./stepOneComplete /251.75_CGATC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 170 -f ./stepOneComplete /252.75_TCGAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 171 -f ./stepOneComplete /253.75_TGCAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 172 -f ./stepOneComplete /254.76_CAACC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 173 -f ./stepOneComplete /255.76_GGTTG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 174 -f ./stepOneComplete /25.5_ACTGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 175 -f ./stepOneComplete /256.76_AAGGA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 176 -f ./stepOneComplete /257.77_AGCTA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 177 -f ./stepOneComplete /258.77_ACACA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 178 -f ./stepOneComplete /259.77_AATTA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 179 -f ./stepOneComplete /260.77_ACTGG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 180 -f ./stepOneComplete /261.77_ACTTC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 181 -f ./stepOneComplete /262.77_ATACG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 182 -f ./stepOneComplete /263.77_ATGAG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 183 -f ./stepOneComplete /264.78_ACGGT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 184 -f ./stepOneComplete /265.78_CGTAC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 185 -f ./stepOneComplete /26.5_ATTAC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 186 -f ./stepOneComplete /266.79_CGTCG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 187 -f ./stepOneComplete /267.79_CGTAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 188 -f ./stepOneComplete /268.80_ATTAC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 189 -f ./stepOneComplete /269.80_CATAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 190 -f ./stepOneComplete /270.80_CGAAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 191 -f ./stepOneComplete /271.80_CGGCT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 192 -f ./stepOneComplete /272.81_CTGAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 193 -f ./stepOneComplete /273.82_CTGCG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 194 -f ./stepOneComplete /274.82_CTGTC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 195 -f ./stepOneComplete /275.82_CTTGG-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 196 -f ./stepOneComplete /27.5_CGGCT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 197 -f ./stepOneComplete /276.83_GACAC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 198 -f ./stepOneComplete /277.84_GAGAT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 199 -f ./stepOneComplete /278.85_GAGTC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 200 -f ./stepOneComplete /279.85_GCCGT-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 201 -f ./stepOneComplete /280.86_GCTGA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 202 -f ./stepOneComplete /281.86_GGATA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 203 -f ./stepOneComplete /282.86_GGCCA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 204 -f ./stepOneComplete /283.87_GGCTC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 205 -f ./stepOneComplete /284.88_TAGTA-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 206 -f ./stepOneComplete /285.89_TATAC-ATTGGG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 207 -f ./stepOneComplete /28.5_GACAC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 208 -f ./stepOneComplete /286.90_GCATG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 209 -f ./stepOneComplete /287.90_CGATC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 210 -f ./stepOneComplete /288.91_TGCAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 211 -f ./stepOneComplete /289.92_CAACC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 212 -f ./stepOneComplete /290.92_GGTTG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 213 -f ./stepOneComplete /291.92_AAGGA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 214 -f ./stepOneComplete /292.92_AGCTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 215 -f ./stepOneComplete /293.93_ACACA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 216 -f ./stepOneComplete /294.93_ACGGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 217 -f ./stepOneComplete /295.94_AATTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 218 -f ./stepOneComplete /29.5_GTAGT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 219 -f ./stepOneComplete /296.95_ACTGG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 220 -f ./stepOneComplete /297.95_ACTTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 221 -f ./stepOneComplete /298.95_ATACG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 222 -f ./stepOneComplete /299.96_ATGAG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 223 -f ./stepOneComplete /300.96_ATTAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 224 -f ./stepOneComplete /301.96_CATAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 225 -f ./stepOneComplete /302.97_CGGTA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 226 -f ./stepOneComplete /303.98_CTGCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 227 -f ./stepOneComplete /304.98_CTGTC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 228 -f ./stepOneComplete /305.99_CTTGG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 229 -f ./stepOneComplete /30.5_TCAGT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 230 -f ./stepOneComplete /31.5_TCGAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 231 -f ./stepOneComplete /3.1_GGTTG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 232 -f ./stepOneComplete /32.5_ACGGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 233 -f ./stepOneComplete /33.5_CGGCT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 234 -f ./stepOneComplete /34.5_GACAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 235 -f ./stepOneComplete /35.5_GTAGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 236 -f ./stepOneComplete /36.6_ACTTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 237 -f ./stepOneComplete /37.6_TCGAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 238 -f ./stepOneComplete /38.7_ATACG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 239 -f ./stepOneComplete /39.7_CGTCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 240 -f ./stepOneComplete /40.7_GCCGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 241 -f ./stepOneComplete /41.7_TACCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 242 -f ./stepOneComplete /4.1_CGTCG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 243 -f ./stepOneComplete /42.7_TAGTA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 244 -f ./stepOneComplete /43.7_GGATA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 245 -f ./stepOneComplete /44.7_TAGTA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 246 -f ./stepOneComplete /45.8_ATGAG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 247 -f ./stepOneComplete /46.8_CTGAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 248 -f ./stepOneComplete /47.8_GGCTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 249 -f ./stepOneComplete /48.8_TCACG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 250 -f ./stepOneComplete /49.8_CGATC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 251 -f ./stepOneComplete /50.8_CGAAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 252 -f ./stepOneComplete /51.8_CTTGG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 253 -f ./stepOneComplete /5.1_CTGAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 254 -f ./stepOneComplete /52.8_TCGAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 255 -f ./stepOneComplete /53.8_GTCCG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 256 -f ./stepOneComplete /54.9_CATAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 257 -f ./stepOneComplete /55.10_CGGTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 258 -f ./stepOneComplete /56.10_GAGAT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 259 -f ./stepOneComplete /57.10_GTCCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 260 -f ./stepOneComplete /58.10_TCCGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 261 -f ./stepOneComplete /59.10_TGCAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 262 -f ./stepOneComplete /60.11_CGTAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 263 -f ./stepOneComplete /61.12_CTGCG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 264 -f ./stepOneComplete /62.12_TCCGG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 265 -f ./stepOneComplete /6.2_ACACA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 266 -f ./stepOneComplete /63.13_CTGTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 267 -f ./stepOneComplete /64.13_GGCCA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 268 -f ./stepOneComplete /65.13_TATAC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 269 -f ./stepOneComplete /66.13_AACCA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 270 -f ./stepOneComplete /67.13_ACACA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 271 -f ./stepOneComplete /68.13_CATAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 272 -f ./stepOneComplete /69.13_CTGTC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 273 -f ./stepOneComplete /70.13_GTCGA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 274 -f ./stepOneComplete /71.13_TCTGC-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 275 -f ./stepOneComplete /72.13_ATGAG-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 276 -f ./stepOneComplete /7.2_TTACC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 277 -f ./stepOneComplete /73.13_CTGAT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 278 -f ./stepOneComplete /74.14_CTTGG-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 279 -f ./stepOneComplete /75.15_GAGTC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 280 -f ./stepOneComplete /76.15_GTCGA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 281 -f ./stepOneComplete /77.15_TCTGC-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 282 -f ./stepOneComplete /78.15_CTGCG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 283 -f ./stepOneComplete /79.15_AACCA-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 284 -f ./stepOneComplete /80.16_GCTGA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 285 -f ./stepOneComplete /81.17_GGATA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 286 -f ./stepOneComplete /82.17_CTGAT-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 287 -f ./stepOneComplete /8.2_GCATG-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 288 -f ./stepOneComplete /83.18_GTAGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 289 -f ./stepOneComplete /84.18_ATACG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 290 -f ./stepOneComplete /85.18_AATTA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 291 -f ./stepOneComplete /86.18_TATAC-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 292 -f ./stepOneComplete /87.19_TAGTA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 293 -f ./stepOneComplete /88.19_TACGT-GTATTA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 294 -f ./stepOneComplete /89.20_TCAGT-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 295 -f ./stepOneComplete /90.20_TCGAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 296 -f ./stepOneComplete /91.21_CAACC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 297 -f ./stepOneComplete /92.21_ACTTC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 298 -f ./stepOneComplete /9.2_AGCTA-ACGATT.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 299 -f ./stepOneComplete /93.21_CGTAC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 300 -f ./stepOneComplete /94.21_GAGTC-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 301 -f ./stepOneComplete /95.22_TGGAA-CGTACG.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 302 -f ./stepOneComplete /96.23_GGTTG-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 303 -f ./stepOneComplete /97.24_AAGGA-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 304 -f ./stepOneComplete /98.24_CTGAT-TAAGAA.fq
-ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 305 -f ./stepOneComplete /99.24_AACCA-GTATTA.fq
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 1 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 2 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 3 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 4 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 5 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 6 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 7 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 8 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 9 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 10 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 11 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 12 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 13 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 14 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 15 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 16 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 17 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 18 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 19 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 20 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 21 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 22 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 23 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 24 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 25 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 26 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 27 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 28 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 29 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 30 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 31 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 32 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 33 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 34 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 35 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 36 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 37 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 38 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 39 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 40 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 41 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 42 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 43 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 44 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 45 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 46 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 47 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 48 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 49 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 50 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 51 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 52 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 53 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 54 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 55 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 56 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 57 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 58 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 59 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 60 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 61 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 62 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 63 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 64 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 65 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 66 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 67 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 68 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 69 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 70 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 71 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 72 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 73 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 74 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 75 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 76 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 77 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 78 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 79 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 80 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 81 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 82 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 83 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 84 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 85 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 86 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 87 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 88 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 89 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 90 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 91 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 92 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 93 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 94 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 95 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 96 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 97 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 98 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 99 -f 
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 100 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 101 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 102 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 103 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 104 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 105 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 106 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 107 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 108 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 109 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 110 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 111 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 112 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 113 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 114 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 115 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 116 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 117 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 118 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 119 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 120 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 121 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 122 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 123 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 124 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 125 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 126 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 127 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 128 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 129 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 130 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 131 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 132 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 133 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 134 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 135 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 136 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 137 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 138 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 139 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 140 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 141 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 142 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 143 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 144 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 145 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 146 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 147 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 148 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 149 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 150 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 151 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 152 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 153 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 154 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 155 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 156 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 157 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 158 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 159 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 160 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 161 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 162 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 163 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 164 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 165 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 166 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 167 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 168 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 169 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 170 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 171 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 172 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 173 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 174 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 175 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 176 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 177 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 178 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 179 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 180 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 181 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 182 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 183 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 184 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 185 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 186 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 187 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 188 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 189 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 190 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 191 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 192 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 193 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 194 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 195 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 196 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 197 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 198 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 199 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 200 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 201 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 202 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 203 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 204 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 205 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 206 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 207 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 208 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 209 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 210 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 211 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 212 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 213 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 214 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 215 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 216 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 217 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 218 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 219 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 220 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 221 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 222 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 223 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 224 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 225 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 226 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 227 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 228 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 229 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 230 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 231 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 232 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 233 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 234 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 235 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 236 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 237 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 238 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 239 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 240 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 241 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 242 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 243 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 244 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 245 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 246 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 247 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 248 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 249 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 250 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 251 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 252 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 253 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 254 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 255 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 256 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 257 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 258 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 259 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 260 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 261 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 262 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 263 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 264 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 265 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 266 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 267 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 268 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 269 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 270 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 271 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 272 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 273 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 274 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 275 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 276 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 277 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 278 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 279 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 280 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 281 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 282 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 283 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 284 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 285 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 286 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 287 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 288 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 289 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 290 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 291 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 292 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 293 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 294 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 295 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 296 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 297 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 298 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 299 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 300 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 301 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 302 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 303 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 304 -f
+ustacks -t fastq -o ./ustacks_output  -m 3 -M 2 -i 305 -f
